@@ -1,2 +1,13 @@
-# Portfolio
+# Roeland Portfolio
 Portfolio of my current and finished projects in Data Science and Analytics
+
+# Data Mining
+## Project 1: 
+* Work in progess...
+
+## Project 2: Clustering To Optimize Marketing Strategies:
+* Performed two segmentations based upon value & engagement and buying behavior of Custeroms.
+* Dataset consisted of 10.000 records with 18 features, delivered by the fictive company, Wonderful World of Wines (WWW)
+* Relative clean dataset, focus is on the use of datamining techniques and developing strategies to WWW.
+* Combined Hierarchical Clustering with Kmeans Clustering to reach to valuable outcomes.
+* 
