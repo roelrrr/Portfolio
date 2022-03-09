@@ -27,7 +27,8 @@ Portfolio of my current and finished projects in Data Science and Analytics
 * Created a DBMS for a Burger Restaurant Chain to optimize workflow of orders
 * Built Triggers for updating a log table with incoming orders 
 * Built Views for creating receipt
-* [Report](https://github.com/roelrrr/DatabaseSystem-For-A-Burger-Restaurant-Chain/blob/main/Description/description.pdf)
+* Using SQL to understand revenue performances of the different restaurants --> [Code](https://github.com/roelrrr/DatabaseSystem-For-A-Burger-Restaurant-Chain/tree/main/Scripts)
+* [Project Description](https://github.com/roelrrr/DatabaseSystem-For-A-Burger-Restaurant-Chain/blob/main/Description/description.pdf)
 * Built an ERD-Diagram
 ![ERD-Diagram](https://github.com/roelrrr/DatabaseSystem-For-A-Burger-Restaurant-Chain/blob/main/Analysis/ERD-Diagram.png)
 
