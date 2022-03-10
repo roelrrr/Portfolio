@@ -14,19 +14,17 @@ Portfolio of my current and finished projects in Data Science and Analytics
 
 ![Cluster 3](https://github.com/roelrrr/Datamining---Wonderful-World-Of-Wines-Marketing-Strategies-/blob/main/Analysis/RadarGraph%20Cluster%203.png)
 
-
-
-
-
 ## Project 2: 
 * Will be published soon...
 
 # Machine Learning
 
-## Project 1: 
-* 
+## [Project 2: Predict Hotel Booking Cancellations](https://github.com/roelrrr/Predicting_Cancellations)
+* Project is still work in progress
+* Completition: 22nd of March
+* For the Project description click on the [link](https://github.com/roelrrr/Predicting_Cancellations#readme)
 
-## Project 2:
+## Project 1:
 * Will be published soon...
 
 # MySQL DataBase 
