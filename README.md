@@ -20,8 +20,24 @@ Portfolio of my current and finished projects in Data Science and Analytics
 # Machine Learning
 
 ## [Project 2: Predict Hotel Booking Cancellations](https://github.com/roelrrr/Predicting_Cancellations)
-* Project is still work in progress
-* Completition: 22nd of March
+* We Built a predictive model that returns an expected net demand for hotel bookings
+* The output can be adjusted towards the prefered timeframe in days or season.
+* The dataset contains of 79,330 records and contains information about booking reservations from a Portuguese hotel chain
+
+* One of the challenges to overcome was data leakage during the machine learning process since we are working with timeseries
+* Our solution was to use a time series split method, which is a method to avoid future data predicting current data in the machine learning process.
+*
+* Since hotels are working with seasonality they asked us to incorporate overbooking problems into the model
+* As performance metrics we used two different F scores, namely F0.5 (High season) and F1.5 (Low season).
+* The F0.5 reduces false positives and therefor reduce possible overbookings. 
+* The F1.5 reduces false negatives, because we wanted to have false negatives more "costly".
+* After trying different machine learning techniques the XGBoost delivered the highest performance with F1.5 : 0.84 & F0.5 : 0.74
+
+* For the deployement we have built an application where a potential hotel manager could import a dataset into the application and adjust the time frame and seasonality. After importing, it will do a feature importance analysis and you can chose which features to incorporate and which machine learning technique to use. As a result it will return the F score as measurement and a list with cancellation probability for each client. Lastly it will return an image of net demand (as shown below )for the timeframe asked at the beginning.
+*Example of net demand visual:
+![NET Demand Visual](https://github.com/roelrrr/Predicting_Cancellations/blob/main/Images/Net_demand_Visual.png)
+
+
 * For the Project description click on the [link](https://github.com/roelrrr/Predicting_Cancellations#readme)
 
 ## [Project 1: Predicting Online Buying Behavior](https://github.com/roelrrr/Predicting_Online_Buying_Behavior)
