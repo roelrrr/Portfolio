@@ -3,7 +3,7 @@ Portfolio of my current and finished projects in Data Science and Analytics
 
 # Machine Learning
 
-## [Project 2: Predict Hotel Booking Cancellations](https://github.com/roelrrr/Predicting_Cancellations)
+## [Project 1: Predict Hotel Booking Cancellations](https://github.com/roelrrr/Predicting_Cancellations)
 * We Built a predictive model that returns an expected net demand for hotel bookings
 * The output can be adjusted towards the prefered timeframe in days or season.
 * The dataset contains of 79,330 records and contains information about booking reservations from a Portuguese hotel chain
@@ -24,7 +24,7 @@ Portfolio of my current and finished projects in Data Science and Analytics
 
 * For the Project description click on the [link](https://github.com/roelrrr/Predicting_Cancellations#readme)
 
-## [Project 1: Predicting Online Buying Behavior](https://github.com/roelrrr/Predicting_Online_Buying_Behavior)
+## [Project 2: Predicting Online Buying Behavior](https://github.com/roelrrr/Predicting_Online_Buying_Behavior)
 * Build a predictive model that answer the question "Which customers are more likely to buy our products?"
 * Use PCA to reduce dimensionality 
 * Evaluation criteria: F1 score
