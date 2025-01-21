@@ -1,6 +1,17 @@
 # Roeland Portfolio
 Portfolio of my current and finished projects in Data Science and Analytics
 
+
+# Fun Side Projects
+
+## [Project 1: Automated Padel Booking Script]
+* Wrote python scripts that will automatically chose padel courts based upon prefered Location / Time / Court-type / Duration
+* It knows the ideal booking time and will book the court if available automatically
+* Currently it works for 3 of the main suppliers of padel courts in the area of Amsterdam.
+  1. Peakz Padel (available nation wide)
+  2. Frans Otten (Booking system widely used and code could be replicated easily to other places)
+  3. Playtomic (App used worldwide)
+
 # Machine Learning
 
 ## [Project 1: Predict Hotel Booking Cancellations](https://github.com/roelrrr/Predicting_Cancellations)
@@ -58,6 +69,5 @@ Portfolio of my current and finished projects in Data Science and Analytics
 
 ![Cluster 3](https://github.com/roelrrr/Datamining---Wonderful-World-Of-Wines-Marketing-Strategies-/blob/main/Analysis/RadarGraph%20Cluster%203.png)
 
-## Project 2: 
-* Will be published soon...
+
 
