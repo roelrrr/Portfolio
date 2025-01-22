@@ -11,6 +11,12 @@ Portfolio of my current and finished projects in Data Science and Analytics
   1. Peakz Padel (available nation wide)
   2. Frans Otten (Booking system widely used and code could be replicated easily to other places)
   3. Playtomic (App used worldwide)
+ 
+## [Project 2: Digital Personal Assistent]
+* Currently in development stage
+* During my work I notice that I get many small tasks, that I cannot always do immediately on the spot and later on might forget...
+* I wanna create a workflow that will store and creates to-do's automatically
+
 
 # Machine Learning
 
